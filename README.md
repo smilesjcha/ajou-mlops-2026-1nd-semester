@@ -18,6 +18,12 @@
 최종적으로 **End-to-End Machine Learning Pipeline 구축 경험**을 목표로
 합니다.
 
+문서형 강의 자산은 `docs/` 아래에서 함께 관리합니다.
+
+-   `docs/lecture-notes`: 기존 강의 PDF 기반 슬라이드 노트
+-   `docs/curriculum`: 학기 운영 커리큘럼
+-   `docs/ppt-generation`: 신규 강의 PPT/원고 생성 가이드
+
 ------------------------------------------------------------------------
 
 # Repository Structure Example
@@ -27,6 +33,10 @@
     ├─ week01_mlops_intro
     ├─ week02_data_ops
     ├─ week03_mlops_infra
+    ├─ docs
+    │  ├─ lecture-notes
+    │  ├─ curriculum
+    │  └─ ppt-generation
     │
     ├─ assignments
     │
